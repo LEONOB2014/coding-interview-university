@@ -259,8 +259,12 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
+* Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. (source)
+* Google: officially C/C++, Java, Python, Javascript, Go (source)
+* Amazon: Java, Javascript, Ruby, Python, Perl (source)
+* Microsoft: C++, C#, Java, Python (source 1, 2)
 
 [See language resources here](programming-language-resources.md)
 
