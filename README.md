@@ -234,8 +234,12 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
+* Facebook: PHP, C++, Python, Java, Perl. High regard for dynamic/scripting languages. (source)
+* Google: officially C/C++, Java, Python, Javascript, Go (source)
+* Amazon: Java, Javascript, Ruby, Python, Perl (source)
+* Microsoft: C++, C#, Java, Python (source 1, 2)
 
 [See language resources here](programming-language-resources.md)
 
@@ -247,6 +251,10 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 
 ### Interview Prep
 
+- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+    - answers in C++ and Java
+    - this is a good warm-up for Cracking the Coding Interview
+    - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
@@ -314,22 +322,22 @@ OR:
     - As a review and problem recognition
     - The algorithm catalog portion is well beyond the scope of difficulty you'll get in an interview.
     - This book has 2 parts:
-        - class textbook on data structures and algorithms
-            - pros:
-                - is a good review as any algorithms textbook would be
-                - nice stories from his experiences solving problems in industry and academia
-                - code examples in C
-            - cons:
-                - can be as dense or impenetrable as CLRS, and in some cases, CLRS may be a better alternative for some subjects
-                - chapters 7, 8, 9 can be painful to try to follow, as some items are not explained well or require more brain than I have
-                - don't get me wrong: I like Skiena, his teaching style, and mannerisms, but I may not be Stony Brook material.
-        - algorithm catalog:
-            - this is the real reason you buy this book.
-            - about to get to this part. Will update here once I've made my way through it.
+    - class textbook on data structures and algorithms
+        - pros:
+            - is a good review as any algorithms textbook would be
+            - nice stories from his experiences solving problems in industry and academia
+            - code examples in C
+        - cons:
+            - can be as dense or impenetrable as CLRS, and in some cases, CLRS may be a better alternative for some subjects
+            - chapters 7, 8, 9 can be painful to try to follow, as some items are not explained well or require more brain than I have
+            - don't get me wrong: I like Skiena, his teaching style, and mannerisms, but I may not be Stony Brook material.
+    - algorithm catalog:
+        - this is the real reason you buy this book.
+        - about to get to this part. Will update here once I've made my way through it.
     - Can rent it on kindle
     - Answers:
-        - [Solutions](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
-        - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
+    - [Solutions](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
+    - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
     - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
 
 - [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
@@ -355,7 +363,7 @@ through my notes and making flashcards so I could review.
 
 Read please so you won't make my mistakes:
 
-- [x] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
+- [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
 ### 2. Use Flashcards
 
@@ -428,7 +436,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
-- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
@@ -1733,6 +1741,9 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
     - [ ] [Graph Alg. IV: Intro to geometric algorithms - Lecture 9](https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
     - [ ] [Geometric Algorithms: Graham & Jarvis - Lecture 10](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
     - [ ] [Divide & Conquer: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
+
+- ### Discrete math
+    - see videos below
 
 - ### Machine Learning
     - [ ] Why ML?
