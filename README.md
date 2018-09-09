@@ -313,6 +313,12 @@ OR:
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
+- [ ] [Grokking Algorithms](https://www.amazon.com.au/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230)
+
+- by Aditya Y Bhargava
+- This is an interesting algorithm book. I highly recommand it.
+- Pythonic code
+
 
 ### Optional Books
 
