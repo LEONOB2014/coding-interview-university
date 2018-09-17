@@ -180,7 +180,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 ## Don't feel you aren't smart enough
 - [x] Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 
-- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [x] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+
+  Take-away: 
+
+  1. Don't try to be genius
+  2. Collaborate early and often
+  3. Pay attention to your tools
+  4. Pay attention to timing
 
 - [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
@@ -515,7 +522,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
         - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
     - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
-            - not the whole video, just portions about Node struct and memory allocation.
+        ​    - not the whole video, just portions about Node struct and memory allocation.
     - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
@@ -652,8 +659,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - notes:
             time complexity: O(n)
             space complexity:
-                best: O(log n) - avg. height of tree
-                worst: O(n)
+            ​    best: O(log n) - avg. height of tree
+            ​    worst: O(n)
         - inorder (DFS: left, self, right)
         - postorder (DFS: left, right, self)
         - preorder (DFS: self, left, right)
@@ -1140,8 +1147,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 ## System Design, Scalability, Data Handling
 - **You can expect system design questions if you have 4+ years of experience.**
 - Scalability and System Design are very large topics with many topics and resources, since
-      there is a lot to consider when designing a software/hardware system that can scale.
-      Expect to spend quite a bit of time on this.
+  ​    there is a lot to consider when designing a software/hardware system that can scale.
+  ​    Expect to spend quite a bit of time on this.
 - Considerations:
     - scalability
         - Distill large data sets to single values
@@ -1709,8 +1716,8 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
         - [ ] [B-Tree Definition and Insertion (video)](https://www.youtube.com/watch?v=s3bCdZGrgpA&index=7&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
         - [ ] [B-Tree Deletion (video)](https://www.youtube.com/watch?v=svfnVhJOfMc&index=8&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
         - [ ] [MIT 6.851 - Memory Hierarchy Models (video)](https://www.youtube.com/watch?v=V3omVLzI0WE&index=7&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
-                - covers cache-oblivious B-Trees, very interesting data structures
-                - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
+            ​    - covers cache-oblivious B-Trees, very interesting data structures
+            ​    - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
 
 
 - ### k-D Trees
@@ -1769,8 +1776,8 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
     - [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
     - Courses:
         - [Great starter course: Machine Learning](https://www.coursera.org/learn/machine-learning)
-              - [videos only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
-              - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
+          ​    - [videos only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+          ​    - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
         - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
         - [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
         - [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
