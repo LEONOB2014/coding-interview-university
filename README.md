@@ -238,6 +238,7 @@ You can use a language you are comfortable in to do the coding part of the inter
 - C++
 - Java
 - Python
+- C#
 
 You could also use these, but read around first. There may be caveats:
 
@@ -325,12 +326,19 @@ OR:
     - I loved this book. It covered everything and more.
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-
 - [ ] [Grokking Algorithms](https://www.amazon.com.au/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230)
-
 - by Aditya Y Bhargava
 - This is an interesting algorithm book. I highly recommand it.
 - Pythonic code
+
+### C#
+
+- [ ] [Problem Solving in Data Structures and Algorithm using C#](https://www.amazon.com/Problem-Solving-Structures-Algorithms-Using/dp/1540407306/ref=sr_1_2?ie=UTF8&qid=1483445752&s=books&sr=1-2)
+
+  - Interview Preparation
+  - C#.
+
+- [ ] [C# Algorithm list](https://github.com/aalhour/C-Sharp-Algorithms)
 
 
 ### Optional Books
