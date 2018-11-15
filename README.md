@@ -531,11 +531,17 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Linked Lists
     - [ ] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
-
         - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
 
-        - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
+          - pros:
 
+            - to be continue
+
+          - cons:
+            - Insert item of beginning or middle(time proportional to length of array)
+            - Arrays have a fixed length
+
+        - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
         - [ ] [What’s a Linked List, Anyway?(blog)](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
     - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
@@ -543,6 +549,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
+        - Linked list we can only walk the list forward or backwards
+        - Array list we can grab any element in fixed time.
 
     - [x] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 
@@ -571,6 +579,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] Doubly-linked List
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
+
+    - examples:
+      - In git we use linked list a lot including git checkout, delete branch, merge, rebase
+      - LRU cache
 
 - ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
