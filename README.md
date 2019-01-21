@@ -6,7 +6,7 @@
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Coding at the whiteboard - from HBO's Silicon Valley](https://user-images.githubusercontent.com/9527681/49329978-1ab47380-f5cb-11e8-95d3-d841001e715a.png)
 
 This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
@@ -328,7 +328,7 @@ OR:
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 - [ ] [Grokking Algorithms](https://www.amazon.com.au/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230)
 - by Aditya Y Bhargava
-- This is an interesting algorithm book. I highly recommand it.
+- This is an interesting algorithm book. I highly recommend it.
 - Pythonic code
 
 ### C#
@@ -1102,6 +1102,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [slides](http://gotocon.com/dl/goto-berlin-2013/slides/SteveFreeman_TestDrivenDevelopmentThatsNotWhatWeMeant.pdf)
     - [ ] [TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
     - [ ] [Is TDD dead? (video)](https://www.youtube.com/watch?v=z9quxZsLcfo)
+    - [x] [Learn TDD By Doing(github)](https://github.com/dwyl/learn-tdd)
     - [ ] [Video series (152 videos) - not all are needed (video)](https://www.youtube.com/watch?v=nzJapzxH_rE&list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
     - [ ] [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc)
     - [ ] Dependency injection:
