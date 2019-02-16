@@ -1838,7 +1838,9 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
             - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)
             - [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
             - [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/)
+            - [Hands On Machine Learning with Scikit Learn and TensorFlow](https://www.amazon.com.au/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS)
         - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+        - [100 Days Of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
         - Data School: http://www.dataschool.io/
 
 --
